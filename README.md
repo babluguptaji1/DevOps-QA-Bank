@@ -22,6 +22,7 @@ Here’s a refined answer to the question “What is DevOps?”, tailored for in
 DevOps is a cultural and technical movement that bridges the gap between software development (Dev) and IT operations (Ops). It promotes collaboration, automation, and continuous improvement to deliver software faster and more reliably.
 
 
+
 🔧 Key Principles:
 Collaboration: Developers and operations teams work together throughout the software lifecycle.
 
@@ -30,6 +31,7 @@ Automation: Tasks like testing, integration, deployment, and monitoring are auto
 Continuous Integration & Continuous Delivery (CI/CD): Code changes are integrated, tested, and deployed frequently.
 
 Monitoring & Feedback: Systems are continuously monitored, and feedback is used to improve performance and reliability.
+
 
 
 🚀 Benefits:
